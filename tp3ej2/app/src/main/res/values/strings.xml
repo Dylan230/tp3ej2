@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Test GIT</string>
+    <string name="numero1">Numero1</string>
+    <string name="numero2">Numero2</string>
+    <string name="suma">Suma</string>
+    <string name="resta">resta</string>
+    <string name="multilpicar">multilpicar</string>
+    <string name="dividir">dividir</string>
+    <string name="sumar">sumar</string>
+    <string name="restar">restar</string>
+    <string name="multiplicar">multiplicar</string>
+</resources>
